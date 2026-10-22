@@ -1,0 +1,8 @@
+{
+  "name": "Zodiak Match",
+  "description": "Kalkulator kecocokan cinta dan astrologi zodiak interaktif yang mendalam dengan analisis kepribadian, elemen, dan panduan relasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
